@@ -1,5 +1,7 @@
 ---
-permalink: /procedure/
+layout: page
+title: KassonTry
+permalink: /KassonTry/
 ---
 
 **Instructions for Preparing Scrambled Eggs**
