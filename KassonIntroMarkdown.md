@@ -1,3 +1,7 @@
+---
+permalink: /procedure/
+---
+
 **Instructions for Preparing Scrambled Eggs**
 
 1.  Gather eggs, salt, pepper, a little butter, frying pan, spoon/spatula and a
@@ -18,3 +22,4 @@
 
 
 For more instructions click [here](https://www.youtube.com/watch?v=PUP7U5vTMM0).
+[Link to MD](/procedure/)
