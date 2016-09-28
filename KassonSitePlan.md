@@ -1,3 +1,9 @@
+---
+layout: page
+title: KassonPlan
+permalink: /KassonPlan/
+---
+
 **Instruction Sets for a Ben Kasson Breakfast!**
 ------------------------------------------------
 
