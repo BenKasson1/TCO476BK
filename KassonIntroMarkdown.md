@@ -1,5 +1,5 @@
 ---
-layout: page
+Layout: page
 title: KassonTry
 permalink: /KassonTry/
 ---
