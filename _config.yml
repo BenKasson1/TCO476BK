@@ -26,4 +26,8 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-theme: garth-jekyll-theme
+
+
+logo: http://www.tampabay.com/resources/images/dti/rendered/2014/11/0432416363_14269809_8col.jpg # Provide an avatar/logo
+
+theme: garth-jekyll-theme # Set the theme
