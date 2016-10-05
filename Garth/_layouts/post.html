@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<main class="main  container">
+
+	<article class="article  typeset">
+
+		<h1>{{ page.title }}</h1>
+
+		<small class="small">
+				{% assign words = content | number_of_words %}
+				<time datetime="{{ page.date | date_to_xmlschema }}" class="time">{{ page.date | date_to_string }}</time>&nbsp;–&nbsp;<span class="time  time--reading">{{ words | divided_by:180 }} minute read</span>
+		</small>
+
+		{{ content }}
+
+	</article>
+
+</main>
